@@ -3,3 +3,12 @@ Este é um exemplo de um ficheiro de texto file3
 
 
 Está é uma linha para realizar a tarefa solicitada
+
+
+<h1>Lista de coisas</h1>
+<h2>Comidas</h2>
+<ul>
+<li>Bolos</li>
+<li>Tostas</li>
+<li>Sandes</li>
+</ul>
